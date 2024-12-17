@@ -3,4 +3,11 @@
 *.jpeg
 *.png
 
+
+# Ignoruj pliki tymczasowe i systemowe
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
 images/
