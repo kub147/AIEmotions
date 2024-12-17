@@ -1,0 +1,6 @@
+# Wyklucz wszystkie zdjęcia
+*.jpg
+*.jpeg
+*.png
+
+images/
