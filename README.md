@@ -13,6 +13,8 @@ Celem projektu jest:
 2. Przeprowadzenie treningu modelu na zestawie danych obrazów twarzy.
 3. Stworzenie aplikacji, która wykorzystuje kamerę do bieżącego rozpoznawania emocji na podstawie twarzy użytkownika.
 
+![Wynik](wynik.png)
+
 ## Dane
 
 Zestaw danych został podzielony na dwie części:
