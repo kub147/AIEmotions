@@ -1,7 +1,6 @@
 # Wyklucz wszystkie zdjęcia
 *.jpg
 *.jpeg
-*.png
 
 
 # Ignoruj pliki tymczasowe i systemowe
