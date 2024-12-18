@@ -78,8 +78,8 @@ Przygotowanie danych obejmowało następujące kroki:
 Przetestowano kilka konfiguracji:
 - Model dla **3 klas emocji** (np. `happy`, `sad`, `angry`) osiągnął wysoką dokładność.
 - Rozszerzenie na **6 klas** wymagało dostrojenia hiperparametrów, ale pozwoliło na lepsze wyniki ogólne.
-
-Testowałem również różne liczby epok oraz wielkości batchy. Parametry, które są obecnie w modelu, dawały najlepsze wyniki. Eksperymentowałem także z liczbą oraz rodzajem warstw konwolucyjnych.
+- Testowałem również różne liczby epok oraz wielkości batchy. Parametry, które są obecnie w modelu, dawały najlepsze wyniki.
+- Eksperymentowałem także z liczbą oraz rodzajem warstw konwolucyjnych.
 ---
 
 ## Ocena jakości modelu
